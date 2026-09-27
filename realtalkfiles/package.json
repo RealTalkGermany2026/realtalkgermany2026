@@ -1,0 +1,9 @@
+{
+  "name": "real-talk-germany",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Real Talk Germany — immigration guidance site with an AI chat assistant backed by Gemini.",
+  "engines": {
+    "node": ">=18"
+  }
+}
