@@ -3,7 +3,7 @@
 // The Gemini API key lives only in the GEMINI_API_KEY environment variable
 // on the hosting platform — it is never sent to the browser.
 
-const GEMINI_MODEL = 'gemini-2.5-flash';
+const GEMINI_MODEL = 'gemini-3.8-flash';
 
 const GEMINI_SYSTEM = [
   'You are the Real Talk Germany chat assistant for Devaraj Iyer, an independent German immigration advisor in Berlin.',
